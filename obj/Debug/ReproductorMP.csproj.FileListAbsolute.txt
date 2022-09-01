@@ -1,0 +1,17 @@
+C:\Proyectos de VS\Reproductor\ReproductorMP\bin\Debug\ReproductorMP.exe.config
+C:\Proyectos de VS\Reproductor\ReproductorMP\bin\Debug\ReproductorMP.exe
+C:\Proyectos de VS\Reproductor\ReproductorMP\bin\Debug\ReproductorMP.pdb
+C:\Proyectos de VS\Reproductor\ReproductorMP\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Proyectos de VS\Reproductor\ReproductorMP\bin\Debug\Interop.WMPLib.dll
+C:\Proyectos de VS\Reproductor\ReproductorMP\bin\Debug\AxInterop.WMPLib.dll
+C:\Proyectos de VS\Reproductor\ReproductorMP\obj\Debug\ReproductorMP.csprojAssemblyReference.cache
+C:\Proyectos de VS\Reproductor\ReproductorMP\obj\Debug\Interop.WMPLib.dll
+C:\Proyectos de VS\Reproductor\ReproductorMP\obj\Debug\AxInterop.WMPLib.dll
+C:\Proyectos de VS\Reproductor\ReproductorMP\obj\Debug\ReproductorMP.csproj.ResolveComReference.cache
+C:\Proyectos de VS\Reproductor\ReproductorMP\obj\Debug\ReproductorMP.Form1.resources
+C:\Proyectos de VS\Reproductor\ReproductorMP\obj\Debug\ReproductorMP.Properties.Resources.resources
+C:\Proyectos de VS\Reproductor\ReproductorMP\obj\Debug\ReproductorMP.csproj.GenerateResource.cache
+C:\Proyectos de VS\Reproductor\ReproductorMP\obj\Debug\ReproductorMP.csproj.CopyComplete
+C:\Proyectos de VS\Reproductor\ReproductorMP\obj\Debug\ReproductorMP.exe
+C:\Proyectos de VS\Reproductor\ReproductorMP\obj\Debug\ReproductorMP.pdb
+C:\Proyectos de VS\Reproductor\ReproductorMP\bin\Debug\MACTrackBarLib.dll
